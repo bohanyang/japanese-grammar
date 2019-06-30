@@ -5,7 +5,7 @@
  *
  * $Id: typography.css,v 1.1.2.2 2009/08/01 17:58:31 shannonlucas Exp $
  */
-html {font-size : 16px;}
+html {font-size: 16px;}
 body {font: 1em/150% "Noto Sans CJK SC", "Hiragino Sans GB", "Microsoft Yahei", "Helvetica Neue", Helvetica, Arial, FreeSans,  "Liberation Sans", sans-serif;}
 table {font-size: 0.95em;}
 th {background-color: #FFFFDD; text-align: center;}
@@ -27,10 +27,10 @@ em .popup {border-bottom: 5px solid rgb(255,119,51);}
 .popup {cursor: help; text-decoration: none; color: #fff; background: #24ade2; margin: 0.1rem; padding: 0.1rem;}
 span.popup:hover {text-decoration:none; background: #0092d1;}
 
-.spoiler { background-color£º#444; color£º#444; padding-right£º20px; }
-.spoiler em { color£º#444; }
-.spoiler:hover, .reveal { background-color£ºtransparent; }
-.spoiler:hover em, .reveal em { color£º#F73; }
+.spoiler { background-color: #444; color: #444; padding-right: 20px; }
+.spoiler em { color: #444; }
+.spoiler:hover, .reveal { background-color: transparent; }
+.spoiler:hover em, .reveal em { color: #F73; }
 
 .hidex {display: none;}
 
