@@ -48,5 +48,5 @@ span.popup:hover {text-decoration:none; background: #0092d1;}
  * http://craigsworks.com/projects/simpletip/#
  * ************************************************************************* */
 .tooltip{position: absolute; background: #444; padding: 5px; top: 0; opacity: 100; left: 0; z-index: 3; display: none; }
-div.col-lg-8 {position: static;}    /*½â¾ö tooltip ¶¨Î»ÎÊÌâ£¬²»ÖªµÀ»á²»»á break Ê²Ã´*/
+div.col-lg-8 {position: static;}    /*è§£å†³ tooltip å®šä½é—®é¢˜ï¼Œä¸çŸ¥é“ä¼šä¸ä¼š break ä»€ä¹ˆ*/
 
